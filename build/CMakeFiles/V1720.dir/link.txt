@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libV1720.so -o libV1720.so CMakeFiles/V1720.dir/V1720FileSetup.cxx.o CMakeFiles/V1720Dict.dir/V1720Dict.cxx.o  -Wl,-rpath,/opt/root/lib: /opt/root/lib/libRIO.so /opt/root/lib/libThread.so /opt/root/lib/libCore.so 

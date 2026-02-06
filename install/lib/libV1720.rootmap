@@ -1,0 +1,4 @@
+[ libV1720.so ]
+# List of selected classes
+class V1720FileSetup
+header V1720FileSetup.h

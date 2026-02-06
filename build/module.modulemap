@@ -1,0 +1,7 @@
+module "V1720" {
+  requires cplusplus
+  module "V1720FileSetup.h" { header "V1720FileSetup.h" export * }
+  link "libV1720.so"
+  export *
+}
+

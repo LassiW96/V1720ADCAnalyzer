@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngine": "disabled",
+    // Other settings...
+  
+    "cmake.configureSettings": {
+        "CMAKE_INSTALL_PREFIX": "${workspaceFolder}/install"
+    },
+
+    "cmake.buildAfterConfigure": true,
+    "cmake.installAfterBuild": true,
+
+    // "terminal.integrated.env.linux": {
+    //     "LD_LIBRARY_PATH": "${workspaceFolder}/install/lib:${env:LD_LIBRARY_PATH}"
+    // }
+
+}

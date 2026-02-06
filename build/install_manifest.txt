@@ -1,0 +1,3 @@
+/home/lasitha/MyFiles/Root/proj2-SDK/install/lib/libV1720.so
+/home/lasitha/MyFiles/Root/proj2-SDK/install/lib/libV1720_rdict.pcm
+/home/lasitha/MyFiles/Root/proj2-SDK/install/lib/libV1720.rootmap
